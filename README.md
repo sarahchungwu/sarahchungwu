@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 <h3 align="center">A passionate full stack developer in New Zealand</h3>
 <img align = "right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif">
-- 🔭 I’m currently working on [FurEveryFriend](https://github.com/sarahchungwu/FurEverFriend)
+- 💻 I’m currently working on my personal Project [FurEveryFriend](https://github.com/sarahchungwu/FurEverFriend) and on an e-commerce store team project [Boba Buddies](https://github.com/Boba-Buddies/boba-buddies-store))
 
-- 🌱 I’m currently learning **JavaScripts, C#**
+- 🎓  I’m currently learning **JavaScripts, C#**
 
-- 👨‍💻 All of my projects are available at [https://sarahchungwu.github.io/portfolio/](https://sarahchungwu.github.io/portfolio/)
+- 👩‍💻Take a look at the summaries of my projects at [https://sarahchungwu.github.io/portfolio/](https://sarahchungwu.github.io/portfolio/)
 
 - 💬 Ask me about **React, Typscript and JavaScripts**
 
 - 📫 How to reach me **sarahchungwu@gmail.com**
 
-- ⚡ Fun fact **I am funny 😝**
+- 🤖 Fun fact **I am funny 😝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
