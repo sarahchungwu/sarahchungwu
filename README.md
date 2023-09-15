@@ -3,7 +3,7 @@
 <img align = "right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif">
 - 💻 I’m currently working on my personal Project [FurEveryFriend](https://github.com/sarahchungwu/FurEverFriend) and on an e-commerce store team project [Boba Buddies](https://github.com/Boba-Buddies/boba-buddies-store)
 
-- 🎓  I’m currently learning **JavaScripts, C#**
+- 🎓  I’m currently learning **JavaScripts, C#, Next.js and Python**
 
 - 👩‍💻Take a look at the summaries of my projects at [https://sarahchungwu.github.io/portfolio/](https://sarahchungwu.github.io/portfolio/)
 
