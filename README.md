@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer in New Zealand</h3>
 <img align = "right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif">
 
-- 🎓  I’m currently learning ** C#, Next.js and Python**
+- 🎓  I’m currently learning **C#, Next.js and Python**
 
 - 👩‍💻Take a look at the summaries of my projects at [https://sarahchungwu.github.io/portfolio/](https://sarahchungwu.github.io/portfolio/)
 
